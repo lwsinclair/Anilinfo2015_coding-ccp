@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-anilinfo2015-coding-ccp-badge.png)](https://mseep.ai/app/mcp-mirror-anilinfo2015-coding-ccp)
+
 # Microsoft Copilot Studio ❤️ MCP
 
 Welcome to the **Microsoft Copilot Studio ❤️ MCP** lab. In this lab, you will learn how to deploy an MCP Server, and how to add it to Microsoft Copilot Studio.
